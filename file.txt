@@ -1,0 +1,302 @@
+
+- M1 Abrams: American third-generation main battle tank.
+- T-14 Armata: Russian fourth-generation main battle tank.
+- Challenger 2: British third-generation main battle tank.
+- Type 99: Chinese third-generation main battle tank.
+- BMP-3: Russian infantry fighting vehicle.
+- Stryker: American wheeled armored fighting vehicle.
+- BTR-80: Russian wheeled armored personnel carrier.
+- Humvee: American light military vehicle.
+- Toyota Land Cruiser: popular choice for insurgent groups.
+- Oshkosh M-ATV: Mine-resistant ambush protected vehicle.
+- Tigr: Russian light armored vehicle.
+- Ural-4320: Russian off-road truck.
+- Boxer: German multirole armored fighting vehicle.
+- Patria AMV: Finnish armored modular vehicle.
+- K21: South Korean infantry fighting vehicle.
+- T-14 Nerehta: Russian infantry fighting vehicle.
+- Puma: German infantry fighting vehicle.
+- Namer: Israeli heavy armored personnel carrier.
+- Terrex: Singaporean armored fighting vehicle.
+- Bumerang: Russian wheeled armored personnel carrier.
+- Tulpar: Kazakhstani armored personnel carrier.
+- Rosomak: Polish armored personnel carrier.
+- Sherpa: French light tactical vehicle.
+- JLTV: American light tactical vehicle.
+- MaxxPro: American mine-resistant ambush protected vehicle.
+- Tomahawk: American cruise missile.
+- AGM-88 HARM: American anti-radiation missile.
+- Kh-55: Russian air-launched cruise missile.
+- R-73: Russian short-range air-to-air missile.
+- AIM-9 Sidewinder: American short-range air-to-air missile.
+- RIM-162 ESSM: American surface-to-air missile.
+- DF-21: Chinese medium-range ballistic missile.
+- Iskander: Russian short-range ballistic missile.
+- RS-24 Yars: Russian intercontinental ballistic missile.
+- Jericho III: Israeli intercontinental ballistic missile.
+- BrahMos: Indian-Russian supersonic cruise missile.
+- HQ-9: Chinese surface-to-air missile.
+- RIM-174 ERAM: American extended-range air-to-air missile.
+- MICA: French air-to-air missile.
+- K-300P Bastion-P: Russian anti-ship missile system.
+- AGM-65 Maverick: American air-to-ground missile.
+- Javelin: American anti-tank missile.
+- 9M133 Kornet: Russian anti-tank missile.
+- S-400 Triumf: Russian long-range surface-to-air missile.
+- AGM-158 JASSM: American stealth cruise missile.
+- Leopard 2: German third-generation main battle tank.
+- Type 10: Japanese third-generation main battle tank.
+- Merkava: Israeli third-generation main battle tank.
+- T-90: Russian third-generation main battle tank.
+- M60 Patton: American second-generation main battle tank.
+- Type 96: Chinese second-generation main battle tank.
+- M48 Patton: American second-generation main battle tank.
+- T-54/55: Soviet second-generation main battle tank.
+- Panzer IV: German medium tank.
+- Sherman: American medium tank.
+- T-34: Soviet medium tank.
+- Ariete: Italian third-generation main battle tank.
+- VT-4: Chinese third-generation main battle tank.
+- T-80: Russian third-generation main battle tank.
+- Type 96B: Chinese third-generation main battle tank.
+- M1A2C Abrams: American fourth-generation main battle tank.
+- Altay: Turkish third-generation main battle tank.
+- PL-01: Polish stealth main battle tank.
+- T-14 Armata: Russian fourth-generation main battle tank.
+- K2 Black Panther: South Korean third-generation main battle tank.
+- T-72: Soviet second-generation main battle tank.
+- F-22 Raptor: American fifth-generation stealth fighter.
+- Su-57: Russian fifth-generation stealth fighter.
+- Eurofighter Typhoon: European fourth-generation multirole fighter.
+- J-20: Chinese fifth-generation stealth fighter.
+- F-35 Lightning II: American fifth-generation multirole fighter.
+- Gripen: Swedish fourth-generation multirole fighter.
+- Mirage 2000: French fourth-generation multirole fighter.
+- MiG-29: Soviet fourth-generation multirole fighter.
+- Spitfire: British World War II fighter.
+- P-51 Mustang: American World War II fighter.
+- B-2 Spirit: American stealth bomber.
+- Tu-160: Russian supersonic strategic bomber.
+- B-52 Stratofortress: American long-range strategic bomber.
+- H-6: Chinese medium-range bomber.
+- F-15E Strike Eagle: American multirole fighter-bomber.
+- Su-34: Russian fighter-bomber.
+- Tornado: European variable-sweep wing multirole fighter-bomber.
+- F-111 Aardvark: American swing-wing tactical strike aircraft.
+- A-10 Thunderbolt II: American ground-attack aircraft.
+- Su-25: Soviet ground-attack aircraft.
+- F-16 Fighting Falcon: American multirole fighter.
+- MiG-31: Russian supersonic interceptor aircraft.
+- F-14 Tomcat: American supersonic air superiority fighter.
+- Mirage 4000: French supersonic fighter.
+- Chengdu J-20: Chinese fifth-generation stealth fighter.
+- F-117 Nighthawk: American stealth attack aircraft.
+- Su-57: Russian fifth-generation stealth fighter.
+- F-4 Phantom II: American fighter-bomber.
+-  BAE Hawk: British advanced trainer aircraft.
+-  A-4 Skyhawk: American light attack aircraft.
+- MQ-9 Reaper: American unmanned aerial vehicle (UAV).
+- Predator: American UAV.
+- Global Hawk: American high-altitude, long-endurance UAV.
+- Heron: Israeli UAV.
+- Wing Loong: Chinese UAV.
+- Bayraktar TB2: Turkish UAV.
+- HESA Shahed 129: Iranian UAV.
+- MQ-1C Gray Eagle: American UAV.
+- CH-47 Chinook: American twin-engine tandem rotor transport helicopter.
+- UH-60 Black Hawk: American four-bladed, twin-engine utility helicopter.
+- Mi-17: Russian helicopter.
+- AH-64 Apache: American attack helicopter.
+- Mi-24: Russian attack helicopter.
+- Eurocopter Tiger: European attack helicopter.
+- Ka-52: Russian reconnaissance and attack helicopter.
+- CH-53 Sea Stallion: American heavy-lift transport helicopter.
+- Mi-26: Russian heavy-lift transport helicopter.
+- OH-58 Kiowa: American observation and reconnaissance helicopter.
+- AH-1Z Viper: American attack helicopter.
+- Bell 206: American light helicopter.
+- NHIndustries NH90: European medium-sized transport and utility helicopter.
+- Kamov Ka-226: Russian light utility helicopter.
+- USS Gerald R. Ford: American aircraft carrier.
+- HMS Queen Elizabeth: British aircraft carrier.
+- INS Vikrant: Indian aircraft carrier.
+- Liaoning: Chinese aircraft carrier.
+- Admiral Kuznetsov: Russian aircraft carrier.
+- Nimitz-class: American aircraft carrier class.
+- Charles de Gaulle: French aircraft carrier.
+- Giuseppe Garibaldi: Italian aircraft carrier.
+- Foch-class: French aircraft carrier class.
+- Kiev-class: Soviet aircraft carrier class.
+- Type 001A: Chinese aircraft carrier.
+- São Paulo: Brazilian aircraft carrier.
+- Varyag: Soviet/Russian aircraft carrier.
+- HMS Prince of Wales: British aircraft carrier.
+- HMS Illustrious: British aircraft carrier.
+- USS Enterprise: American aircraft carrier.
+- USS Lexington: American aircraft carrier.
+- HMS Ark Royal: British aircraft carrier.
+- USS Saratoga: American aircraft carrier.
+- USS Wasp: American amphibious assault ship.
+- HMS Ocean: British amphibious assault ship.
+- M777 howitzer: American towed 155 mm artillery.
+- S-400: Russian long-range surface-to-air missile system.
+- BM-21 Grad: Soviet truck-mounted multiple rocket launcher.
+- M270 MLRS: American multiple rocket launcher.
+- Bofors 40 mm: Swedish anti-aircraft gun.
+- 2S19 Msta-S: Russian 152 mm self-propelled howitzer.
+- Panzerhaubitze 2000: German 155 mm self-propelled howitzer.
+- Type 99 155 mm self-propelled howitzer: Chinese howitzer.
+- Gvozdika: Soviet/Russian 122 mm self-propelled howitzer.
+- AHS Krab: Polish self-propelled howitzer.
+- M109 Paladin: American 155 mm self-propelled howitzer.
+- TOS-1: Russian heavy flamethrower system.
+- M270 MLRS: American multiple rocket launcher system.
+- T-90: Russian main battle tank.
+- Leopard 2: German main battle tank.
+- M1 Abrams: American main battle tank.
+- Challenger 2: British main battle tank.
+- Merkava: Israeli main battle tank.
+- - PL-01: Polish main battle tank.
+- - Type 99: Chinese main battle tank.
+- - K2 Black Panther: South Korean main battle tank.
+- Avro Vulcan: British strategic bomber.
+- Tupolev Tu-95: Soviet/Russian turboprop-powered strategic bomber.
+- Northrop Grumman B-21 Raider: American stealth bomber currently in development.
+- Antonov An-225 Mriya: Ukrainian cargo aircraft, the largest in the world.
+- Lockheed Martin C-130 Hercules: American four-engine turboprop military transport aircraft.
+- Boeing C-17 Globemaster III: American four-engine military transport aircraft.
+- Airbus A400M Atlas: European four-engine turboprop military transport aircraft.
+- Boeing KC-46 Pegasus: American aerial refueling tanker.
+- Ilyushin Il-76: Soviet/Russian four-engine military transport aircraft.
+- Mil Mi-24: Soviet/Russian attack helicopter.
+- Boeing AH-64 Apache: American attack helicopter.
+- Eurocopter Tiger: European attack helicopter.
+- Kamov Ka-52: Russian attack helicopter.
+- Mil Mi-28: Russian attack helicopter.
+- Bell AH-1 Cobra: American attack helicopter.
+- Sikorsky UH-60 Black Hawk: American utility helicopter.
+- Mil Mi-17: Soviet/Russian utility helicopter.
+- Boeing CH-47 Chinook: American tandem-rotor helicopter.
+- NHIndustries NH90: European multirole military helicopter.
+- Eurocopter AS532 Cougar: European utility helicopter.
+- Bell UH-1 Huey: American utility helicopter.
+- Sikorsky SH-60 Seahawk: American naval helicopter.
+- Kamov Ka-27: Soviet/Russian naval helicopter.
+- AgustaWestland AW101: European medium-lift utility helicopter.
+- Boeing AH-6 Little Bird: American light attack helicopter.
+- Bell OH-58 Kiowa: American observation helicopter.
+- Sukhoi Su-25: Soviet/Russian ground-attack aircraft.
+- A-6 Intruder: American medium-attack aircraft.
+- F-8 Crusader: American carrier-based fighter aircraft.
+- Dassault Rafale: French multirole fighter aircraft.
+- Saab JAS 39 Gripen: Swedish multirole fighter aircraft.
+- Mikoyan MiG-25: Soviet/Russian interceptor and reconnaissance aircraft.
+- Lockheed SR-71 Blackbird: American reconnaissance aircraft.
+- Boeing E-3 Sentry: American airborne early warning and control aircraft.
+- E-2 Hawkeye: American carrier-based airborne early warning and control aircraft.
+- F/A-18 Hornet: American carrier-based multirole fighter aircraft.
+- Sukhoi Su-27: Soviet/Russian air superiority fighter.
+- F-15 Eagle: American air superiority fighter.
+- Mikoyan MiG-31: Soviet/Russian supersonic interceptor aircraft.
+- Eurofighter Typhoon: European multirole fighter aircraft.
+- General Dynamics F-111 Aardvark: American tactical strike aircraft.
+- Lockheed F-104 Starfighter: American supersonic interceptor aircraft.
+- Convair F-106 Delta Dart: American supersonic interceptor aircraft.
+- Lockheed Martin F-35 Lightning II: American multirole stealth fighter aircraft.
+- Dassault Mirage III: French supersonic fighter aircraft.
+- McDonnell Douglas F-4 Phantom II: American fighter-bomber aircraft.
+- Tupolev Tu-22M: Soviet/Russian supersonic bomber aircraft.
+- Boeing B-52 Stratofortress: American strategic bomber aircraft.
+- Rockwell B-1 Lancer: American supersonic variable-sweep wing bomber aircraft.
+- Northrop Grumman B-2 Spirit: American stealth bomber aircraft.
+- Convair B-58 Hustler: American supersonic bomber aircraft.
+- Mil Mi-26: Soviet/Russian heavy-lift transport helicopter.
+- CH-53 Sea Stallion: American heavy-lift transport
+- B-1 Lancer: American supersonic variable-sweep wing bomber.
+- B-2 Spirit: American stealth bomber.
+- B-21 Raider: American stealth bomber (under development).
+- Tu-160: Russian supersonic strategic bomber.
+- Tu-95: Russian turboprop-powered strategic bomber.
+- Tu-22M: Russian supersonic variable-sweep wing bomber.
+- Tu-16: Soviet long-range bomber.
+- H-6: Chinese medium-range bomber.
+- JH-7: Chinese tactical bomber.
+- FB-22: American stealth bomber (cancelled).
+- Avro Vulcan: British strategic bomber.
+- Handley Page Victor: British strategic bomber.
+- Blackburn Buccaneer: British carrier-based strike aircraft.
+- Panavia Tornado: European variable-sweep wing multirole fighter-bomber.
+- SEPECAT Jaguar: British-French ground attack aircraft.
+- Dassault Mirage IV: French strategic bomber.
+- Dassault Mirage 2000N/D: French nuclear strike aircraft.
+- Mirage 4000: French supersonic fighter-bomber.
+- Su-34: Russian fighter-bomber.
+- Su-24: Soviet/Russian variable-sweep wing bomber.
+- Su-22: Soviet/Russian ground attack aircraft.
+- F-111 Aardvark: American swing-wing tactical strike aircraft.
+- F-117 Nighthawk: American stealth attack aircraft.
+- A-6 Intruder: American carrier-based attack aircraft.
+- A-7 Corsair II: American carrier-based attack aircraft.
+- A-4 Skyhawk: American light attack aircraft.
+- F-4 Phantom II: American fighter-bomber.
+- F-15E Strike Eagle: American multirole fighter-bomber.
+- F-16 Fighting Falcon: American multirole fighter.
+- F-22 Raptor: American fifth-generation stealth fighter (can also perform ground attack).
+- F-35 Lightning II: American fifth-generation multirole fighter.
+- Eurofighter Typhoon: European fourth-generation multirole fighter.
+- Saab Gripen: Swedish fourth-generation multirole fighter.
+- MiG-23: Soviet variable-sweep wing fighter-bomber.
+- MiG-27: Soviet ground attack aircraft.
+- MiG-31: Russian supersonic interceptor aircraft.
+- Tu-22M3: Russian supersonic bomber.
+- Xian H-20: Chinese strategic bomber (under development).
+- Dornier Do 217: German bomber.
+- Heinkel He 111: German bomber.
+- Junkers Ju 88: German bomber.
+- Mitsubishi G4M: Japanese bomber.
+- Kawasaki Ki-45: Japanese fighter-bomber.
+- Nakajima Ki-49: Japanese bomber.
+- Tupolev Tu-2: Soviet bomber.
+- Petlyakov Pe-2: Soviet light bomber.
+- Ilyushin Il-28: Soviet bomber.
+- Ilyushin Il-10: Soviet ground attack aircraft.
+- Sukhoi Su-2: Soviet light bomber.
+- Douglas A-26 Invader: American light bomber.
+- Martin B-26 Marauder: American medium bomber.
+- North American B-25 Mitchell: American medium bomber.
+- Boeing B-29 Superfortress: American strategic bomber.
+- Consolidated B-24 Liberator: American heavy bomber.
+- Boeing B-17 Flying Fortress: American heavy bomber.
+- Short Stirling: British heavy bomber.
+- Handley Page Halifax: British heavy bomber.
+- AGM-12 Bullpup: Air-to-ground missile developed by the United States during the 1950s.
+- AGM-22B: Air-to-ground missile developed by the United States in the 1960s.
+- AGM-28 Hound Dog: Air-to-ground missile developed by the United States during the 1950s.
+- AGM-45 Shrike: Anti-radiation missile developed by the United States during the Vietnam War.
+- AGM-53 Condor: Air-to-ground missile developed by the United States during the 1970s.
+- AGM-62 Walleye: Guided bomb developed by the United States during the 1960s.
+- AGM-65 Maverick: Air-to-ground missile developed by the United States during the Vietnam War.
+- AGM-78 Standard ARM: Anti-radiation missile developed by the United States during the 1960s.
+- AGM-84 Harpoon: Anti-ship missile developed by the United States in the 1970s.
+- AGM-86 ALCM: Air-launched cruise missile developed by the United States during the Cold War.
+- AGM-88 HARM: Anti-radiation missile developed by the United States in the 1980s.
+- AIM-4 Falcon: Air-to-air missile developed by the United States during the 1950s.
+- AIM-7 Sparrow: Medium-range air-to-air missile developed by the United States during the Cold War.
+- AIM-9 Sidewinder: Short-range air-to-air missile developed by the United States during the 1950s.
+- AIM-54 Phoenix: Long-range air-to-air missile developed by the United States during the Cold War.
+- AIM-120 AMRAAM: Medium-range air-to-air missile developed by the United States in the 1990s.
+- AIM-132 ASRAAM: Short-range air-to-air missile developed by the United Kingdom in the 1990s.
+- AIM-152 AAAM: Air-to-air missile developed by the United States in the 1980s.
+- AIM-260 JATM: Next-generation air-to-air missile currently under development by the United States.
+- AS-20: Air-to-surface missile developed by France during the 1960s.
+- AS-30: Air-to-ground missile developed by France in the 1970s.
+- AS-34 Kormoran: Anti-ship missile developed by Germany in the 1980s.
+- AS-37 Martel: Air-to-ground missile developed by France in the 1970s.
+- AS-39 Exocet: Anti-ship missile developed by France in the 1970s.
+- ASROC: Anti-submarine missile developed by the United States during the Cold War.
+- Aster: Family of surface-to-air and anti-ballistic missiles developed by France and Italy.
+- BGM-109 Tomahawk: Land-attack cruise missile developed by the United States in the 1980s.
+- BGM-71 TOW: Anti-tank missile developed by the United States during the 1970s.
+- Brimstone: Anti-tank missile developed by the United Kingdom in the 1990s.
+- C-802: Anti-ship missile developed by China in the 1980s.
+- DF-21: Medium-range ballistic missile developed by China in the 1990s.
